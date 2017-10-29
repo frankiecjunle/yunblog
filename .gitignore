@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
-/migrations
+/migrations/
 *.pyc
 *$py.class
-/venv
+/venv/
 *.sqlite
